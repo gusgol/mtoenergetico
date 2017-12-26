@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+  background-color: #17B7BF;
+  padding: 10%;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+
+div {
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.title {
+  font-size: 3em;
+}
+
+.subtitle {
+  font-size: 2.7em;
+}
+
+.count {
+  font-size: 10em;
+  margin: 0;
+}
+
+.add {
+  margin: 40px 20px;
+}

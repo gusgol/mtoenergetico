@@ -1,0 +1,8 @@
+{
+  "short_name": "Tu não acha que tá bebendo muito energético?",
+  "name": "Tu não acha que tá bebendo muito energético?",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
